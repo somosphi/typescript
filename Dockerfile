@@ -51,7 +51,3 @@ RUN curl https://packages.microsoft.com/config/ubuntu/${UBUNTU_VERSION}/packages
 RUN curl -sL https://deb.nodesource.com/setup_${NODE_VERSION}.x | bash - && \
     apt-get install -y nodejs && \
     npm install -g typescript ts-node
-
-RUN ls
-
-RUN brockeeeeeeee
