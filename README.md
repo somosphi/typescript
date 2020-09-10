@@ -1,11 +1,10 @@
-# typescript ci image
+# Typescript CI Image
 
-* git
-* curl
-* zip
-* docker
-* aws
-* az
+* Node 14
+* [Ubuntu 20.04](https://github.com/somosphi/ubuntu)
+
+## cli
+
 * node
 * tsc
 * ts-node
